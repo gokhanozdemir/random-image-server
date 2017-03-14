@@ -1,9 +1,8 @@
-# random-image-server
+# Random Image Server
 Serves random images
 
-`npm install`
-
+Just
 `npm start`
 
-# Rights Dislaimer
+### Copyrights Dislaimer
 All rights of images are reserved for their owners. For non-commercial testing purposes only.
