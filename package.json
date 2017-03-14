@@ -1,6 +1,6 @@
 {
   "name": "random-image-server",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Serves random images for devving",
   "main": "index.js",
   "scripts": {
